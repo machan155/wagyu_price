@@ -33,6 +33,14 @@ p {
   .row {
     margin-bottom: 30px;
   }
+
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+  .card-flex {
+  }
 }
 
 
